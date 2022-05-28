@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1653562342 source:h:\edi\practica2edi\main.cpp
+	<iostream>
+	"CriptoDoc.h"
+	"TADLista.h"
+	"TADPila.h"
+	<fstream>
+	"string.h"
+
+1653559414 source:h:\edi\practica2edi\src\criptodoc.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"string.h"
+	"CriptoDoc.h"
+
+1653558498 h:\edi\practica2edi\include\criptodoc.h
+	"TADlista.h"
+	<string>
+
+1653328118 h:\edi\practica2edi\include\tadlista.h
+	<iostream>
+
+1653318058 source:h:\edi\practica2edi\src\tadlista.cpp
+	"TADlista.h"
+
+1653318058 source:f:\edi\practica2edi\src\tadlista.cpp
+	"TADlista.h"
+
+1653328118 f:\edi\practica2edi\include\tadlista.h
+	<iostream>
+
+1653322232 source:f:\edi\practica2edi\src\criptodoc.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"string.h"
+	"CriptoDoc.h"
+
+1651142242 f:\edi\practica2edi\include\criptodoc.h
+	"TADlista.h"
+	<string>
+
+1653388646 source:f:\edi\practica2edi\main.cpp
+	<iostream>
+	"CriptoDoc.h"
+	"TADLista.h"
+	"TADPila.h"
+	<fstream>
+	"string.h"
+
+1653327994 source:f:\edi\practica2edi\src\tadpila.cpp
+	"TADPila.h"
+
+1653325474 f:\edi\practica2edi\include\tadpila.h
+	<iostream>
+
+1653325474 h:\edi\practica2edi\include\tadpila.h
+	<iostream>
+
+1653327994 source:h:\edi\practica2edi\src\tadpila.cpp
+	"TADPila.h"
+
